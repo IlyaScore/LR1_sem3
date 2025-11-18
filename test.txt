@@ -1,0 +1,3 @@
+g++ main.cpp Array.cpp Queue.cpp Stack.cpp LinkedList.cpp DoublyLinkedList.cpp BSTree.cpp -o main
+.\main
+cd /mnt/c/folder/lr1
